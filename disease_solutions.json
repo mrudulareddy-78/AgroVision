@@ -1,0 +1,154 @@
+{
+    "Apple___Apple_scab": {
+        "solution": "Apply fungicide containing myclobutanil and ensure proper air circulation.",
+        "prevention": "Practice crop rotation and remove fallen leaves."
+    },
+    "Apple___Black_rot": {
+        "solution": "Use copper-based fungicides and remove infected fruit.",
+        "prevention": "Maintain good orchard hygiene and select resistant varieties."
+    },
+    "Apple___Cedar_apple_rust": {
+        "solution": "Apply fungicides at flowering and remove cedar trees nearby.",
+        "prevention": "Choose resistant apple varieties."
+    },
+    "Apple___healthy": {
+        "solution": "Continue regular monitoring and maintain healthy practices.",
+        "prevention": "Ensure proper watering and fertilization."
+    },
+    "Blueberry___healthy": {
+        "solution": "Maintain soil pH between 4.5 and 5.5 for optimal growth.",
+        "prevention": "Regularly check for pests and diseases."
+    },
+    "Cherry_(including_sour)___Powdery_mildew": {
+        "solution": "Apply sulfur-based fungicides and ensure good airflow.",
+        "prevention": "Prune infected branches and avoid overhead watering."
+    },
+    "Cherry_(including_sour)___healthy": {
+        "solution": "Continue regular monitoring for pests.",
+        "prevention": "Ensure proper fertilization and irrigation."
+    },
+    "Corn_(maize)___Cercospora_leaf_spot": {
+        "solution": "Apply fungicides at the first sign of disease.",
+        "prevention": "Rotate crops and practice good field sanitation."
+    },
+    "Corn_(maize)___Common_rust_": {
+        "solution": "Use resistant corn hybrids and apply fungicides if necessary.",
+        "prevention": "Monitor for early signs of rust in the field."
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+        "solution": "Apply fungicides at tasseling if conditions are favorable for disease.",
+        "prevention": "Rotate crops and select resistant varieties."
+    },
+    "Corn_(maize)___healthy": {
+        "solution": "Maintain soil fertility and monitor for pests.",
+        "prevention": "Implement crop rotation practices."
+    },
+    "Grape___Black_rot": {
+        "solution": "Apply fungicides during bloom and harvest affected clusters.",
+        "prevention": "Prune properly to improve air circulation."
+    },
+    "Grape___Esca_(Black_Measles)": {
+        "solution": "Remove infected vines and apply appropriate fungicides.",
+        "prevention": "Use resistant grape varieties."
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "solution": "Use fungicides at the first sign of symptoms.",
+        "prevention": "Maintain proper vineyard sanitation."
+    },
+    "Grape___healthy": {
+        "solution": "Continue regular monitoring for pests.",
+        "prevention": "Ensure proper irrigation practices."
+    },
+    "Orange___Huanglongbing_(Citrus_greening)": {
+        "solution": "Remove infected trees and control psyllid vectors.",
+        "prevention": "Regularly inspect trees and maintain good cultural practices."
+    },
+    "Peach___Bacterial_spot": {
+        "solution": "Apply copper-based bactericides before bloom.",
+        "prevention": "Select resistant varieties and practice good sanitation."
+    },
+    "Peach___healthy": {
+        "solution": "",
+        "prevention": ""
+    },
+    "Pepper,_bell___Bacterial_spot": {
+        "solution": "Remove infected plants, apply copper-based bactericides.",
+        "prevention": "Use disease-resistant varieties, practice crop rotation."
+    },
+    "Pepper,_bell___healthy": {
+        "solution": "Maintain healthy growth practices.",
+        "prevention": "Regularly inspect plants for early signs of disease."
+    },
+    "Potato___Early_blight": {
+        "solution": "Apply fungicides at the first sign of infection.",
+        "prevention": "Rotate crops, avoid overhead irrigation."
+    },
+    "Potato___Late_blight": {
+        "solution": "Use resistant varieties, apply fungicides as needed.",
+        "prevention": "Monitor weather conditions closely."
+    },
+    "Potato___healthy": {
+        "solution": "Continue regular monitoring for pests.",
+        "prevention": "Implement crop rotation practices."
+    },
+    "Raspberry___healthy": {
+        "solution": "Maintain healthy soil moisture levels.",
+        "prevention": "Regularly check for pests."
+    },
+    "Soybean___healthy": {
+        "solution": "Monitor for aphids and other pests.",
+        "prevention": "Practice crop rotation to manage soil health."
+    },
+    "Squash___Powdery_mildew": {
+        "solution": "Apply sulfur or potassium bicarbonate when symptoms appear.",
+        "prevention": "Ensure good air circulation around plants."
+    },
+    "Strawberry___Leaf_scorch": {
+        "solution": "Remove affected leaves, ensure adequate watering.",
+        "prevention": "Avoid overhead watering, maintain soil moisture."
+    },
+    "Strawberry___healthy": {
+        "solution": "",
+        "prevention": ""
+    },
+    "Tomato___Bacterial_spot": {
+        "solution": "Remove infected plants, apply copper-based bactericides.",
+        "prevention": "Use resistant varieties, practice crop rotation."
+    },
+    "Tomato___Early_blight": {
+        "solution": "Apply fungicides at the first sign of infection.",
+        "prevention": "Rotate crops, avoid overhead irrigation."
+    },
+    "Tomato___Late_blight": {
+        "solution": "Use resistant varieties, apply fungicides as needed.",
+        "prevention": "Monitor weather conditions closely."
+    },
+    "Tomato___Leaf_Mold": {
+        "solution": "Improve ventilation in greenhouses, apply fungicides if necessary.",
+        "prevention": "Avoid overcrowding plants, ensure proper watering."
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "solution": "Apply fungicides at the first sign of symptoms.",
+        "prevention": "Practice crop rotation and maintain good sanitation."
+    },
+    "Tomato___Spider_mites_Two-spotted_spider_mite": {
+        "solution": "Use miticides or insecticidal soap as needed.",
+        "prevention": "Regularly monitor plants for signs of infestation."
+    },
+    "Tomato___Target_Spot": {
+        "solution": "Apply fungicides when symptoms appear; remove affected leaves.",
+        "prevention": "Rotate crops to prevent disease buildup."
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "solution": "Remove infected plants immediately; control whitefly populations.",
+        "prevention": "Use virus-resistant varieties."
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "solution": "Remove infected plants immediately; control aphid populations.",
+        "prevention": "Use virus-resistant varieties."
+    },
+    "Tomato___healthy": {
+        "solution": "Continue regular monitoring for pests.",
+        "prevention": "Implement crop rotation practices."
+    }
+}
